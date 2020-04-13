@@ -1,4 +1,4 @@
- # cbit_IR for micro-bit
+ # OSOYOO_IR_BLACK for micro-bit
 
 Extension for OSOYOO Micro Bit IR
 

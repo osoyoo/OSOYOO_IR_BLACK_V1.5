@@ -43,7 +43,7 @@
 	  RIGHT = 0x5a,
 	  DOWN = 0x52,
     }
-declare namespace Mbit_IR {
+declare namespace OSOYOO_IR_BLACK {
 }
 
 // Auto-generated. Do not edit. Really.
