@@ -1,7 +1,7 @@
 {
-    "name": "OSOYOO_IR",
+    "name": "cbit_IR",
     "version": "1.0.0",
-    "description": "Extension for OSOYOO micro:bit IR receiver module",
+    "description": "Extension for ZYRobot m:bit IR receiver module",
     "license": "MIT",
     "dependencies": {
         "core": "*"

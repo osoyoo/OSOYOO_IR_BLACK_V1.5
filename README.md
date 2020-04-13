@@ -1,6 +1,6 @@
- # OSOYOO_IR for micro-bit
+ # cbit_IR for micro-bit
 
-Extension for OSOYOO_IR
+Extension for OSOYOO Micro Bit IR
 
 Note: IR receiver for OSOYOO receiver
 
