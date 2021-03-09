@@ -4,7 +4,8 @@
 
     //% color="#31C7D5" weight=19
     //% icon="\uf1eb"
-declare namespace OSOYOO_IR_BLACK_V1.5 {
+declare namespace "OSOYOO_IR_BLACK_V1.5"
+{
 
     /**
      * button pushed.
